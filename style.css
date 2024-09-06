@@ -1,0 +1,151 @@
+.logo{
+    padding-left: 20px;
+}
+.bo-1{
+    margin-bottom: 100px;
+    margin-left: 30px;
+}
+
+.motor{
+    display: inline-flex;
+    margin-left: 60px;
+    margin-top: 17px;
+}
+body{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+.p-1{
+    padding-left: 5px;
+}
+.building{
+    display: inline-flex;
+    margin-left: 50px;
+    margin-top: 15px;
+}.main-1{
+    display: inline-flex;
+}
+select{
+    height: 50px;
+    width: 320px;
+    margin-left: 25px;
+}
+.img-1{
+    border: 2px solid black;
+    background-color: white;
+    height: 45px;
+    
+}
+.lo-3{
+    /* border: 1px solid ; */
+    border-radius: 15px;
+    width: 90px;
+    height: 35px;
+    /* text-align: center; */
+    border-left: 6px solid yellow;
+    border-bottom: 6px solid skyblue;
+    border-right: 6px solid blue;
+    border-top: 6px solid black;
+    margin-top: -6px;
+    margin-left: 3px;
+}
+
+input{
+    width: 620px;
+    height: 45px;
+    margin-left: 40px;
+}
+.lo-2{
+    text-decoration: underline;
+    padding: 10px;
+    padding-left: 70px;
+    margin-top: -5px;
+}
+.lo-2:hover{
+    padding: 10px;
+    text-decoration:  none;
+}
+.bottom{
+    display: flex;
+}
+h3{
+    padding-left: 50px;
+    color: rgb(42, 49, 35);
+    font-size: 20px;
+}
+
+.p-1{
+    padding-left: 30px;
+}
+.im-1{
+margin-left: 180px;
+margin-top: 15px;
+}
+.logo-1{
+    width: 120px;
+    height: 80px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+h2{
+    padding-left: 30px;
+    padding-top: 50px;
+}
+.card-12{
+    border: 1px solid black;
+    width: 250px;
+    height: 350px;
+    transition: 0.4s;
+}
+.card-12:hover{
+    background: rgba(255, 0, 43, 0.178) ;
+    margin-top: -8px;
+}
+h1{
+    padding-left: 20px;
+    font-size: 20px;
+}
+.para-1{
+    text-align: center;
+    padding-top: 30px;
+}
+.card-1{
+    display: inline-flex;
+}
+.card-12{
+    margin-left: 60px;
+}
+.phone-1{
+    margin-top: 60px;
+    width: 1500px;
+    height: 150px;
+}
+.main-3{
+    display: inline-flex;
+   
+}
+.footer{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.footer-1{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.social{
+    margin-left: 150px;
+    margin-top: 180px;
+}
+.under{
+    background-color: rgb(46, 66, 46);
+    height: 50px;
+    width: auto;
+    color: white;
+}
+h4{
+    padding-bottom: 25px;
+    float: right;
+    text-align: right;
+    padding-right: 30px;
+}
